@@ -1,0 +1,5 @@
+GET http://localhost:3000/parse?url=https://ya.ru
+###
+GET http://localhost:3000/parse?url=https://bot.sannysoft.com
+###
+GET http://localhost:3000/parse?url=https://vk.com
